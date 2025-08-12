@@ -4,7 +4,7 @@ A Streamlit-based web app that predicts the likelihood of **Diabetes**, **Parkin
 
 ## Features
 - Predicts **3 different diseases** from user input data.
-- Simple, interactive web UI built with [Streamlit](https://streamlit.io/).
+- Simple, interactive web UI built with `Streamlit`.
 - Uses pre-trained ML models stored locally.
 - Trains `Logistic Regression` and `Support Vector Machine` models on an sample dataset to train.
 - Runs entirely in your browser — no installation needed for users.
